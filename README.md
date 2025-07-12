@@ -1,3 +1,4 @@
 # new project
 
-this project was created from local suys
+this project was created from local system.
+Created by Nitesh Kumar
